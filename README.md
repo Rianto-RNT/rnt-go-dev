@@ -77,6 +77,8 @@ $ rnt-example-command
 
 - Packages and Modules (Explained)
 - Data types (Explained)
+- String and runes (Explained)
+- Go CLI tool (Explained)
 
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
