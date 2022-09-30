@@ -75,6 +75,8 @@ $ rnt-example-command
   - After download complete > Double click the installer > click Next until installation done (Using default settings)
   - Finish > go tool chain ready to use
 
+- Packages and Modules
+
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
 ## Articles
