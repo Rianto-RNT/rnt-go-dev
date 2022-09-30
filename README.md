@@ -89,7 +89,7 @@ $ rnt-example-command
   - Comma, ok
   - Naming & constants
 
--
+- Variable (Demo)
 
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
