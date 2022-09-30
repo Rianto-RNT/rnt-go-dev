@@ -80,6 +80,17 @@ $ rnt-example-command
 - String and runes (Explained)
 - Go CLI tool (Explained)
 
+### 2) Programming Fundamentals Go (Golang)
+
+- Variables (Explained)
+
+  - About variables
+  - Creating variables
+  - Comma, ok
+  - Naming & constants
+
+-
+
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
 ## Articles
