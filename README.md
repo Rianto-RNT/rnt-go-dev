@@ -90,6 +90,7 @@ $ rnt-example-command
   - Naming & constants
 
 - Variable (Demo)
+- Variables (Exercise)
 
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
