@@ -91,6 +91,7 @@ $ rnt-example-command
 
 - Variable (Demo)
 - Variables (Exercise)
+- Basic functions
 
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
