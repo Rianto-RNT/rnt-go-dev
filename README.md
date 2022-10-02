@@ -110,6 +110,7 @@ $ rnt-example-command
   - Statement initialization
 
 - if..else (demo)
+- if..else (exercise)
 
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
