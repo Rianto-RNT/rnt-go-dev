@@ -103,11 +103,13 @@ $ rnt-example-command
   - Artimetic
   - Logic & Relational
 
-- if..else
+- if..else (explained)
 
   - Flow control
   - Usage with Operators
   - Statement initialization
+
+- if..else (demo)
 
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
