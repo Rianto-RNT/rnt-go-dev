@@ -93,6 +93,16 @@ $ rnt-example-command
 - Variables (Exercise)
 - Basic functions
 
+  - About basic functions
+  - Creation and Usage
+  - How they work
+
+- Operators
+
+  - About Operators in go
+  - Artimetic
+  - Logic & Relational
+
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
 ## Articles
