@@ -103,6 +103,12 @@ $ rnt-example-command
   - Artimetic
   - Logic & Relational
 
+- if..else
+
+  - Flow control
+  - Usage with Operators
+  - Statement initialization
+
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
 ## Articles
