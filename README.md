@@ -118,6 +118,7 @@ $ rnt-example-command
   - Fallthrough
 
 - Switch (demo)
+- Switch (exercise)
 
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
