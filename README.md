@@ -117,6 +117,8 @@ $ rnt-example-command
   - Case list
   - Fallthrough
 
+- Switch (demo)
+
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
 ## Articles
