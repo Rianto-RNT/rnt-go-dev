@@ -111,6 +111,11 @@ $ rnt-example-command
 
 - if..else (demo)
 - if..else (exercise)
+- Switch
+
+  - Basic switch
+  - Case list
+  - Fallthrough
 
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
