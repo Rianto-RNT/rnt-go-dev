@@ -126,6 +126,7 @@ $ rnt-example-command
   - Infinite loop
 
 - Loops (demo)
+- Loops (exercise)
 
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
