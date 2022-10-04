@@ -119,6 +119,11 @@ $ rnt-example-command
 
 - Switch (demo)
 - Switch (exercise)
+- Loops (explained)
+
+  - Basic Loop
+  - While loop
+  - Infinite loop
 
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
