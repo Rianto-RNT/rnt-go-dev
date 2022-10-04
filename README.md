@@ -127,11 +127,13 @@ $ rnt-example-command
 
 - Loops (demo)
 - Loops (exercise)
+- Section Review - Dice Roller (exercise)
 
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
 ## Articles
 
+- [Standard library](https://pkg.go.dev/std)
 - [rnt-example-point](https://github.com/)
 
 ## Future Updates
