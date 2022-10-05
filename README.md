@@ -134,6 +134,8 @@ $ rnt-example-command
   - Define, create & access
   - Anonymous Structures
 
+- Structs (demo)
+
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
 ## Articles
