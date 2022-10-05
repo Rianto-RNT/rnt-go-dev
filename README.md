@@ -128,6 +128,11 @@ $ rnt-example-command
 - Loops (demo)
 - Loops (exercise)
 - Section Review - Dice Roller (exercise)
+- Structures (explained)
+
+  - About struct
+  - Define, create & access
+  - Anonymous Structures
 
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
