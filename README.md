@@ -141,6 +141,7 @@ $ rnt-example-command
   - Creation & Access
   - Iteration
 - Arrays (demo)
+- Arrays (exercise)
 
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
