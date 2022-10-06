@@ -135,6 +135,11 @@ $ rnt-example-command
   - Anonymous Structures
 
 - Structs (demo)
+- Structs (exercise)
+- Arrays
+- About arrays
+- Creation & Access
+- Iteration
 
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
