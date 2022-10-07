@@ -148,6 +148,8 @@ $ rnt-example-command
   - Creation & access
   - Slicing syntax
 
+- Slices (demo)
+
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
 ## Articles
