@@ -142,6 +142,11 @@ $ rnt-example-command
   - Iteration
 - Arrays (demo)
 - Arrays (exercise)
+- Slices (explained)
+
+  - About slices
+  - Creation & access
+  - Slicing syntax
 
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
