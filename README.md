@@ -150,6 +150,7 @@ $ rnt-example-command
 
 - Slices (demo)
 - Slices (exercise)
+- Ranges (Demo)
 
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
