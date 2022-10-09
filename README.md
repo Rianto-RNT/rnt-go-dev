@@ -157,6 +157,8 @@ $ rnt-example-command
   - Map creation
   - Using map
 
+- Maps (demo)
+
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
 ## Articles
