@@ -158,6 +158,7 @@ $ rnt-example-command
   - Using map
 
 - Maps (demo)
+- Maps (exercise)
 
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
