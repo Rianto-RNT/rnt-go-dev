@@ -151,6 +151,11 @@ $ rnt-example-command
 - Slices (demo)
 - Slices (exercise)
 - Ranges (Demo)
+- Maps
+
+  - About maps
+  - Map creation
+  - Using map
 
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
