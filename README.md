@@ -159,6 +159,11 @@ $ rnt-example-command
 
 - Maps (demo)
 - Maps (exercise)
+- Pointers
+
+  - Memory
+  - Creation and Usage
+  - Visualization
 
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
