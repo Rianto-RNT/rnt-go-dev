@@ -164,6 +164,7 @@ $ rnt-example-command
   - Memory
   - Creation and Usage
   - Visualization
+  - Demo
 
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
