@@ -169,6 +169,14 @@ $ rnt-example-command
 
 - Section Review - Library
 
+### 3) Idiomatic Go (Golang)
+
+- Reciever Fuction
+
+  - About
+  - Pointer reciever
+  - Value reciever
+
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
 ## Articles
