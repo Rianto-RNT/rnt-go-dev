@@ -176,6 +176,7 @@ $ rnt-example-command
   - About
   - Pointer reciever
   - Value reciever
+  - Demo
 
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
