@@ -179,6 +179,10 @@ $ rnt-example-command
   - Demo
   - Exercise
 
+- IOTA
+
+  - Exercise
+
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
 ## Articles
