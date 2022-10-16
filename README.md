@@ -183,6 +183,8 @@ $ rnt-example-command
 
   - Exercise
 
+- Variadics
+
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
 ## Articles
