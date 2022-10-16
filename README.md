@@ -185,6 +185,10 @@ $ rnt-example-command
 
 - Variadics
 
+  - Demo
+
+- Text Formating fmt
+
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
 ## Articles
