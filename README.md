@@ -197,6 +197,11 @@ $ rnt-example-command
 
   - Demo
 
+- Init Function
+
+  - About
+  - Examples
+
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
 ## Articles
