@@ -207,6 +207,7 @@ $ rnt-example-command
   - Setup
   - Examples
   - Test tables
+  - Demo
 
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
