@@ -189,6 +189,14 @@ $ rnt-example-command
 
 - Text Formating fmt
 
+  - Verbs
+  - Escape Sequences
+  - Printf / Sprintf / Fprintf
+
+- Packages
+
+  - Demo
+
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
 ## Articles
