@@ -208,12 +208,16 @@ $ rnt-example-command
   - Examples
   - Test tables
   - Demo
+  - Exercise
 
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
 ## Articles
 
 - [Standard library](https://pkg.go.dev/std)
+- [Golang testing](https://pkg.go.dev/testing)
+- [Testtify - Golang testing library](https://github.com/stretchr/testify)
+- [Golang mock](https://pkg.go.dev/github.com/stretchr/testify/mock)
 - [rnt-example-point](https://github.com/)
 
 ## Future Updates
