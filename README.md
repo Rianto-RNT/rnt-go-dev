@@ -217,6 +217,7 @@ $ rnt-example-command
   - About
   - Implementation
   - Usage
+  - Demo
 
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
