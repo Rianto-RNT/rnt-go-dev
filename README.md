@@ -210,6 +210,14 @@ $ rnt-example-command
   - Demo
   - Exercise
 
+### 4) Interfaces in Go (Golang)
+
+- Interfaces
+
+  - About
+  - Implementation
+  - Usage
+
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
 ## Articles
