@@ -220,6 +220,12 @@ $ rnt-example-command
   - Demo
   - Exercise
 
+- Error handling
+
+  - Error interface
+  - Make your own errors
+  - Error checking
+
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
 ## Articles
