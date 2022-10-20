@@ -225,6 +225,8 @@ $ rnt-example-command
   - Error interface
   - Make your own errors
   - Error checking
+  - Demo
+  - Exercise
 
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
