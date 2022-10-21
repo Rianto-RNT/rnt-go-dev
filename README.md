@@ -233,6 +233,7 @@ $ rnt-example-command
   - Reader
   - Bufio
   - Writer
+  - Demo
 
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
