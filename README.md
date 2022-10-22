@@ -235,6 +235,12 @@ $ rnt-example-command
   - Writer
   - Demo
 
+- Type Embedding
+
+  - About
+  - Interfaces & Structs
+  - Promotion
+
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
 ## Articles
