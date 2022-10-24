@@ -241,6 +241,7 @@ $ rnt-example-command
   - Interfaces & Structs
   - Promotion
   - Demo
+  - Exercise
 
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
