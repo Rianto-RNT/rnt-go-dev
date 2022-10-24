@@ -248,7 +248,6 @@ $ rnt-example-command
   - About Generic
   - Syntax
   - Approximation
-  -
 
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
