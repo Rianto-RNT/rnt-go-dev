@@ -243,6 +243,13 @@ $ rnt-example-command
   - Demo
   - Exercise
 
+- Generic
+
+  - About Generic
+  - Syntax
+  - Approximation
+  -
+
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
 ## Articles
