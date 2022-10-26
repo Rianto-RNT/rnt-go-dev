@@ -249,6 +249,13 @@ $ rnt-example-command
   - Syntax
   - Approximation
 
+  ### 5) Concurent Programming with Go (Golang)
+
+  - Function Literals
+    - Anonymous function
+    - Closures
+    - Aliases
+
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
 ## Articles
