@@ -255,6 +255,7 @@ $ rnt-example-command
     - Anonymous function
     - Closures
     - Aliases
+    - Demo
 
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
