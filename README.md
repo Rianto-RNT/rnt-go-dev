@@ -268,6 +268,12 @@ $ rnt-example-command
   - Threads
   - Async
 
+- Goroutines
+
+  - About
+  - Example
+  - Closure
+
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
 ## Articles
