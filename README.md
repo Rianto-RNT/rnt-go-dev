@@ -251,12 +251,16 @@ $ rnt-example-command
 
   ### 5) Concurent Programming with Go (Golang)
 
-  - Function Literals
-    - Anonymous function
-    - Closures
-    - Aliases
-    - Demo
-    - Exercise
+- Function Literals
+  - Anonymous function
+  - Closures
+  - Aliases
+  - Demo
+  - Exercise
+- Defer
+
+  - About defer
+  - Example
 
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
