@@ -274,6 +274,7 @@ $ rnt-example-command
   - Example
   - Closure
   - Demo
+  - Exercise
 
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
