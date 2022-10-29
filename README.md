@@ -281,6 +281,7 @@ $ rnt-example-command
   - About
   - Send / Recieve
   - Selection
+  - Demo
 
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
