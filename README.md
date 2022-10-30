@@ -284,6 +284,12 @@ $ rnt-example-command
   - Demo
   - Exercise
 
+- Synchronization
+
+  - About
+  - Mutex
+  - Wait Groups
+
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
 ## Articles
