@@ -289,7 +289,8 @@ $ rnt-example-command
   - About
   - Mutex
   - Wait Groups
-    - Demo Wait Groups
+  - Demo Wait Groups
+  - Demo Mutex
 
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
