@@ -292,6 +292,8 @@ $ rnt-example-command
   - Demo Wait Groups
   - Demo Mutex
 
+- Section review - Multithreaded grep (Final Exercise)
+
 - [![](rnt-image-url)](https://github.com/Rianto-RNT)
 
 ## Articles
